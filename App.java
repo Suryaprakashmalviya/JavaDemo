@@ -125,7 +125,7 @@ class App {
                float c = sc.nextInt();
                float scored = a+b+c;
                float total = 300;
-               System.out.println ("total marks "+scored +"\npercentage "+(scored/total)*100);
+               System.out.println ("total marks "+scored +"\npercentage batao "+(scored/total)*100);
           }
 
 
